@@ -1,0 +1,10 @@
+body{
+    background-color: #f3f3f3;
+    color: #090909;
+    padding: 0;
+    margin: 0;
+    font-family: 'Cairo', sans-serif;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
